@@ -1,0 +1,8 @@
+port: 8081
+
+version: "v.0.0.2"
+
+mysql:
+  host: "127.0.0.1"
+  port: 3306
+  dbname: "dmfs9000"
